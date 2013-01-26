@@ -5,7 +5,7 @@ Sample implementation of neural networks.
 Ground up implementation in Python.
 Implementation is slow and ment only for learning purposes.
 
-Runs with Python 3.2 32bit
+Runs with Python 3.2
 
 Required libraries:
  - scipy
